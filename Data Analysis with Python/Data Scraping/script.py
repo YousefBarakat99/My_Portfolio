@@ -34,9 +34,4 @@ for ls in hidden:
 df = pd.DataFrame(listings)
 
 #* Exporting to an excel file
-df.to_excel(r'C:\Users\youse\Desktop\scrape_practice\houses.xlsx', index=False, header=['Price (HUF)', 'Size', 'Rooms', 'Address'])
-
-
-
-
-
+df.to_excel(r'C:\Users\youse\Desktop\Data Analysis Portfolio\Python\Data Scraping\houses.xlsx', index=False, header=['Price (HUF)', 'Size', 'Rooms', 'Address'])
