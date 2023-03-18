@@ -52,6 +52,7 @@ time.sleep(1)
 
 # * Going through the different pages (1 to 9)
 for i in range(1, 4):
+    time.sleep(0.5)
     page2 = driver.page_source
     soup = BeautifulSoup(page2, 'html.parser')
     posts2 = soup.find_all('article', class_='hentry')
@@ -86,6 +87,7 @@ for i in range(1, 4):
         By.XPATH, f'//*[@id="main-content"]/div[2]/div/div/div[1]/div/div[1]/div[2]/nav/ul/nav/ul/li[{2+i}]/a').click()
 
 for i in range(6):
+    time.sleep(0.5)
     page2 = driver.page_source
     soup = BeautifulSoup(page2, 'html.parser')
     posts2 = soup.find_all('article', class_='hentry')
@@ -185,6 +187,6 @@ df = pd.DataFrame(listings, columns=[
 print(len(df))
 
 # * Exporting to an excel file
-df.to_excel('housesTRIAL.xlsx', index=False, header=[
+df.to_excel('streamlit\housesTRIAL.xlsx', index=False, header=[
             'Price (HUF)', 'Size', 'Rooms', 'Address', 'Link'])
 driver.quit()
