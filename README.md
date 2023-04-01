@@ -76,5 +76,6 @@ You can find my Excel projects [here](https://github.com/YousefBarakat99/My_Port
 This holds all of my Tableau dashboards.
 
 View Dashboards(https://public.tableau.com/app/profile/yousef.barakat)
-&nbsp;
-### Thank you for visiting my portfolio! :smiley:
+
+
+Thank you for visiting my portfolio! :smiley:
