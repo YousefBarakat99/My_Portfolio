@@ -1,6 +1,6 @@
 # My Portfolio :briefcase:
 
-# Table of Contents
+## Table of Contents
    * [Streamlit :computer:](#streamlit-computer)
        * [Web Scraping Visualization :globe_with_meridians:](#web-scraping-visualization-globe_with_meridians)
    * [Python Projects :snake:](#python-projects-snake)
