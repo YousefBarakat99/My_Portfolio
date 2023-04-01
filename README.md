@@ -1,20 +1,20 @@
 # My Awesome Portfolio :briefcase:
 
 # Table of Contents
-  * [Streamlit :computer:](#streamlit-computer)
-      * [Web Scraping Visualization :globe_with_meridians:](#web-scraping-visualization-globe_with_meridians)
-  * [Python Projects :snake:](#python-projects-snake)
-      * [Web Scraping :house_with_garden:](#web-scraping-house_with_garden)
-      * [Sea Level Predictor :ocean:](#sea-level-predictor-ocean)
-      * [Demographic Data Analyzer :bar_chart:](#demographic-data-analyzer-bar_chart)
-      * [Analysis of Page Visits :chart_with_upwards_trend:](#analysis-of-page-visits-chart_with_upwards_trend)
-      * [Medical Data Visualizer :pill:](#medical-data-visualizer-pill)
-      * [Movie Data Analysis :movie_camera:](#movie-data-analysis-movie_camera)
-  * [SQL Projects :floppy_disk:](#sql-projects-floppy_disk)
-      * [Covid Data Analysis :microbe:](#covid-data-analysis-microbe)
-      * [Data Cleaning :house:](#data-cleaning-house)
-  * [Excel :bar_chart:](#excel-bar_chart)
-  * [Tableau :bar_chart:](#tableau-bar_chart)
+   * [Streamlit :computer:](#streamlit-computer)
+       * [Web Scraping Visualization :globe_with_meridians:](#web-scraping-visualization-globe_with_meridians)
+   * [Python Projects :snake:](#python-projects-snake)
+       * [Web Scraping :house_with_garden:](#web-scraping-house_with_garden)
+       * [Sea Level Predictor :ocean:](#sea-level-predictor-ocean)
+       * [Demographic Data Analyzer :bar_chart:](#demographic-data-analyzer-bar_chart)
+       * [Analysis of Page Visits :chart_with_upwards_trend:](#analysis-of-page-visits-chart_with_upwards_trend)
+       * [Medical Data Visualizer :pill:](#medical-data-visualizer-pill)
+       * [Movie Data Analysis :movie_camera:](#movie-data-analysis-movie_camera)
+   * [SQL Projects :floppy_disk:](#sql-projects-floppy_disk)
+       * [Covid Data Analysis :microbe:](#covid-data-analysis-microbe)
+       * [Data Cleaning :house:](#data-cleaning-house)
+   * [Excel :bar_chart:](#excel-bar_chart)
+   * [Tableau :bar_chart:](#tableau-bar_chart)
 
 Welcome to my portfolio! Here you will find some of the exciting projects I have worked on in Python, SQL, and Excel. :nerd_face: The code for all the projects is hosted on my [Github profile](https://github.com/myusername). I will constantly update the portfolio as I complete more projects.
 
