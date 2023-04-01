@@ -4,7 +4,7 @@
    * [Streamlit :computer:](#streamlit-computer)
        * [Web Scraping Visualization :globe_with_meridians:](#web-scraping-visualization-globe_with_meridians)
    * [Python Projects :snake:](#python-projects-snake)
-       * [Web Scraping :house_with_garden:](#web-scraping)
+       * [Web Scraping :globe_with_meridians:](#web-scraping)
        * [Sea Level Predictor :ocean:](#sea-level-predictor)
        * [Demographic Data Analyzer :bar_chart:](#demographic-data-analyzer)
        * [Analysis of Page Visits :chart_with_upwards_trend:](#analysis-of-page-visits)
@@ -12,7 +12,7 @@
        * [Movie Data Analysis :movie_camera:](#movie-data-analysis)
    * [SQL Projects :floppy_disk:](#sql-projects-floppy_disk)
        * [Covid Data Analysis :microbe:](#covid-data-analysis)
-       * [Data Cleaning :house:](#data-cleaning)
+       * [Data Cleaning :sponge:](#data-cleaning)
    * [Excel :bar_chart:](#excel-bar_chart)
    * [Tableau :bar_chart:](#tableau-bar_chart)
 
