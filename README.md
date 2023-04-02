@@ -21,7 +21,7 @@ Welcome to my portfolio! Here you will find some of the exciting projects I have
 ## Streamlit :computer:
 
 ### Web Scraping Visualization :globe_with_meridians:
-I hosted previously scraped data from a different project on streamlit with different tabs, pages and visualizations. This is just a skill I learnt to display my flexibility with different environments.
+This App explores the relation between price, size and number of rooms along a relatively large dataset. The data was scraped from 3 property websites in the area that I live in. The motivation behind this project was to try and find a solution to easily having a large excel file with properties and filtering them while having an easily accessable link that leads directly to the posting.
 
 [View WebApp](https://yousef-barakat99-houses.streamlit.app/)
 
