@@ -2,7 +2,7 @@
 
 ## Table of Contents
    * [Streamlit :computer:](#streamlit-computer)
-       * [Web Scraping Visualization :globe_with_meridians:](#web-scraping-visualization-globe_with_meridians)
+       * [Apartment Hunting Application :globe_with_meridians:](#web-scraping-visualization-globe_with_meridians)
    * [Python Projects :snake:](#python-projects-snake)
        * [Web Scraping :globe_with_meridians:](#web-scraping)
        * [Sea Level Predictor :ocean:](#sea-level-predictor)
