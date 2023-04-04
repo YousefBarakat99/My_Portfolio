@@ -75,7 +75,7 @@ You can find my Excel projects [here](https://github.com/YousefBarakat99/My_Port
 ## Tableau :bar_chart:
 This holds all of my Tableau dashboards.
 
-View Dashboards(https://public.tableau.com/app/profile/yousef.barakat)
+[View Dashboards](https://public.tableau.com/app/profile/yousef.barakat)
 
 
 Thank you for visiting my portfolio! :smiley:
