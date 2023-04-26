@@ -1,5 +1,7 @@
 # My Portfolio :briefcase:
 
+Welcome to my portfolio! Here you will find some of the exciting projects I have worked on in Python, SQL, and Excel:nerd_face:. I will constantly update the portfolio as I complete more projects.
+
 ## Table of Contents
    * [Streamlit :computer:](#streamlit-computer)
        * [Apartment Hunting Application :globe_with_meridians:](#web-scraping-visualization-globe_with_meridians)
@@ -15,8 +17,6 @@
        * [Data Cleaning :sponge:](#data-cleaning)
    * [Excel :bar_chart:](#excel-bar_chart)
    * [Tableau :bar_chart:](#tableau-bar_chart)
-
-Welcome to my portfolio! Here you will find some of the exciting projects I have worked on in Python, SQL, and Excel:nerd_face:. I will constantly update the portfolio as I complete more projects.
 
 ## Streamlit :computer:
 
