@@ -3,6 +3,8 @@
 Welcome to my portfolio! Here you will find some of the exciting projects I have worked on in Python, SQL, and Excel:nerd_face:. I will constantly update the portfolio as I complete more projects.
 
 ## Table of Contents
+   * [Web-Development :globe_with_meridians:](#web-development-globe_with_meridians)
+       * [AuctionIt :moneybag:](#auctionit-moneybag)
    * [Streamlit :computer:](#streamlit-computer)
        * [Apartment Hunting Application :globe_with_meridians:](#web-scraping-visualization-globe_with_meridians)
    * [Python Projects :snake:](#python-projects-snake)
@@ -17,6 +19,12 @@ Welcome to my portfolio! Here you will find some of the exciting projects I have
        * [Data Cleaning :sponge:](#data-cleaning)
    * [Excel :bar_chart:](#excel-bar_chart)
    * [Tableau :bar_chart:](#tableau-bar_chart)
+
+## Web Development :globe_with_meridians:
+### AuctionIt :moneybag:
+AuctionIt is my first Full stack project, built using Django and hosted on Vercel. Inspired by the renowned platform eBay. AuctionIt is a dynamic web application that revolves around the exciting world of online auctions.
+
+[Visit AuctionIt ⏩](https://auctions-six.vercel.app/)
 
 ## Streamlit :computer:
 
